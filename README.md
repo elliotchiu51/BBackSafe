@@ -29,4 +29,5 @@ In addition, users can select their mode of travel such as Walking Time or Drivi
 The planned route will be highlighted in the map with turn-by-turn directions. The distance and time of your trip is also calculated. The customized route will avoid locations where there are crime hotspots throughout toronto.
 
 *Exploring the Data*
-BBackSafe also features infographics for the user to visualze and explore crime data. Users are able to select which year of crime they want to visualize on the map/
+
+BBackSafe also features infographics for the user to visualze and explore crime data. Users are able to select which year of crime they want to visualize on the map.
